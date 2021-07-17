@@ -17,7 +17,9 @@ I have used a dark theme styling with some colorful elements for the app and sta
 The full demo of this app can be found in the youtube link: https://www.youtube.com/watch?v=dYobIYuGHSM
 \
 \
-If any issues in demo video or screenshots shown here I have also  generated keystore file in JDK bin, copied it to my project directory and used that alias and password to build a signed apk of my app using android studio build tab. That file is also attached in this repository just in case.
+If any issues in demo video or screenshots shown here I have also  generated keystore file in JDK bin, copied it to my project directory and used that alias and password to build a signed apk of my app using android studio build tab. 
+\
+That file is also attached in this repository just in case. The apk can be found in the path android/app/release/app-release.apk
 \
 \
 Some screenshots of the app are also shown below :
