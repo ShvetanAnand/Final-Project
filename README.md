@@ -20,8 +20,10 @@ The full demo of this app can be found in the youtube link: https://www.youtube.
 Some screenshots of the app are also shown below :
 \
 \
-![image](https://user-images.githubusercontent.com/84237347/125807035-b6ea05f4-feaa-4e53-b924-b1512410bed9.png)
+![image](https://user-images.githubusercontent.com/84237347/126030064-b21a7925-3e62-4061-aed1-4616f9a84bb7.png)
+
 \
 \
-![image](https://user-images.githubusercontent.com/84237347/125807184-b201c63b-f1d3-44b3-91bf-27c782657b95.png)
+![image](https://user-images.githubusercontent.com/84237347/126030077-0f401771-4b53-46bd-9429-fc950ec114e7.png)
+
 
