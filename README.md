@@ -5,7 +5,7 @@ My Final Project for Android Club
 I have attempted to create a TODO app for my final project.
 \
 \
-The main part of this app which handles the task entering is handled by the coding in the files Todo.js and task.js. task.js is called in by Todo.js which is then imported in the main App.js to make the final code simpler.
+The main part of this app which handles the task entering is handled by the coding in the files Todo.js and task.js. The task.js is called in by Todo.js which is then imported in the main App.js to make the final code simpler.
 \
 \
 My Coding App.js file handles other parts of the app apart from the task entering such as stack,bottom drawer navigation and some styling elements.
