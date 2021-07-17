@@ -14,7 +14,10 @@ The App.js file handles other parts of the app apart from the task entering such
 I have used a dark theme styling with some colorful elements for the app and status bar as it is more comfortable on the eyes and to give it a cooler look :)
 \
 \
-The full demo of this app can be found in the youtube link: https://www.youtube.com/watch?v=4exuy6EnP_A 
+The full demo of this app can be found in the youtube link: https://www.youtube.com/watch?v=dYobIYuGHSM
+\
+\
+If any issues in demo video or screenshots shown here I have also  generated keystore file in JDK bin, copied it to my project directory and used that alias and password to build a signed apk of my app using android studio build tab. That file is also attached in this repository just in case.
 \
 \
 Some screenshots of the app are also shown below :
