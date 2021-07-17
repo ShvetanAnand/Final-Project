@@ -8,7 +8,7 @@ I have attempted to create a TODO app for my final project.
 The main part of this app which handles the task entering is handled by the coding in the files Todo.js and task.js. The task.js has the class task which is called in by Todo.js which is then imported in the main App.js to make the final code simpler.
 \
 \
-My Coding App.js file handles other parts of the app apart from the task entering such as stack,bottom drawer navigation and some styling elements.
+My Coding in App.js file handles other parts of the app apart from the task entering such as stack,bottom drawer navigation and some styling elements.
 \
 \
 I have used a dark theme styling with some colorful elements for the app and status bar as it is more comfortable on the eyes and to give it a cooler look :)
