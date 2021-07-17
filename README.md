@@ -14,7 +14,7 @@ The App.js file handles other parts of the app apart from the task entering such
 I have used a dark theme styling with some colorful elements for the app and status bar as it is more comfortable on the eyes and to give it a cooler look :)
 \
 \
-The full demo of this app can be found in the youtube link: https://www.youtube.com/watch?v=1fWPiLUe8vQ
+The full demo of this app can be found in the youtube link: 
 \
 \
 Some screenshots of the app are also shown below :
