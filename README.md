@@ -17,7 +17,7 @@ I have used a dark theme styling with some colorful elements for the app and sta
 The full demo of this app can be found in the youtube link: 
 \
 \
-Some screenshots of the app are also shown below :
+Some screenshots of the app are also shown below : https://www.youtube.com/watch?v=4exuy6EnP_A
 \
 \
 ![image](https://user-images.githubusercontent.com/84237347/125807035-b6ea05f4-feaa-4e53-b924-b1512410bed9.png)
